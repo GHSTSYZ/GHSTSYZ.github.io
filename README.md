@@ -419,7 +419,7 @@
   <div id="acceso">
     <p>
       Esta carta tiene una llave.<br>
-      Escribe cómo te llamo yo. <span class="corazoncito">♡</span>
+      Escribela. <span class="corazoncito">♡</span>
     </p>
     <input id="clave" type="text" autocomplete="off" placeholder="..." autofocus>
     <button id="entrar">abrir</button>
